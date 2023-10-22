@@ -1,4 +1,4 @@
-# `Stealth AI`
+# `Video Analyser`
 
 This is me and my team stealth
 ## An NLP tool for remove those hassles of finding the most relevant content in the videos and documents.
